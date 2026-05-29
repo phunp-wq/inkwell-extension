@@ -6,7 +6,7 @@ export type Settings = {
 };
 
 const DEFAULTS: Settings = {
-  apiUrl: 'http://localhost:3777',
+  apiUrl: 'https://inkwell-web-production.up.railway.app',
   token: '',
 };
 
